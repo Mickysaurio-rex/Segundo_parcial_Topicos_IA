@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic-settings
+python-dotenv
+python-multipart
+newspaper3k
+bs4
+spacy
+requests
+transformers
+torch
+tensorflow
