@@ -1,12 +1,10 @@
 fastapi
 uvicorn
-pydantic-settings
 python-dotenv
+pydantic-settings
 python-multipart
-newspaper3k
-bs4
 spacy
 requests
-transformers
 torch
 tensorflow
+transformers
